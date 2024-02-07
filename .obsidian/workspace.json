@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e43bf4ba3f0a5647",
+        "id": "44de9270e1c19f50",
         "type": "tabs",
         "children": [
           {
-            "id": "a11ed65fe7c935f1",
+            "id": "2afddb0bfcd6144a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,6 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a11ed65fe7c935f1",
-  "lastOpenFiles": []
+  "active": "2afddb0bfcd6144a",
+  "lastOpenFiles": [
+    "docs/orchid/congratulations.md",
+    "docs/lily/How to join your plot.md",
+    "README.md"
+  ]
 }
