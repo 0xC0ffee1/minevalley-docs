@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/phlox/Rules.md",
+                "file": "docs/phlox/Claiming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/phlox/Rules.md",
+                "file": "docs/phlox/Claiming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/phlox/Rules.md",
+                "file": "docs/phlox/Claiming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/phlox/Rules.md"
+                "file": "docs/phlox/Claiming.md"
               }
             }
           }
@@ -148,9 +148,16 @@
   },
   "active": "2afddb0bfcd6144a",
   "lastOpenFiles": [
+    "docs/phlox/Rules.md",
+    "docs/phlox/Claiming.md",
+    "docs/orchid/congratulations.md",
+    "docs/intro.md",
+    "docs/hello.md",
+    "static/CNAME",
+    "CNAME~",
+    "CNAME",
     "docs/lily/How to join your plot.md",
     "docusaurus.config.js~",
-    "docs/orchid/congratulations.md",
     "README.md"
   ]
 }
