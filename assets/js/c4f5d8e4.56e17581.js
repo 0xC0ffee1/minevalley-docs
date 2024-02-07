@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkminevalley_docs=self.webpackChunkminevalley_docs||[]).push([[252],{1936:(e,n,s)=>{s.r(n),s.d(n,{default:()=>l});s(1504);var t=s(5592),c=s(7624);const l=function(){return(0,c.jsx)(t.YJ,{to:"/intro"})}}}]);
