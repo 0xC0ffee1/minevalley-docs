@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lily/How to join your plot.md",
+                "file": "docs/phlox/Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lily/How to join your plot.md",
+                "file": "docs/phlox/Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lily/How to join your plot.md",
+                "file": "docs/phlox/Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lily/How to join your plot.md"
+                "file": "docs/phlox/Rules.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "2afddb0bfcd6144a",
   "lastOpenFiles": [
+    "docs/lily/How to join your plot.md",
     "docusaurus.config.js~",
     "docs/orchid/congratulations.md",
-    "docs/lily/How to join your plot.md",
     "README.md"
   ]
 }
