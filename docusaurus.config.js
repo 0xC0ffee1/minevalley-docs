@@ -89,15 +89,15 @@ const config = {
             items: [
               {
                 label: 'Phlox (Semi-Vanilla)',
-                to: '/docs/category/phlox---semi-vanilla',
+                to: '/category/phlox---semi-vanilla',
               },
               {
                 label: 'Lily (Creative)',
-                to: '/docs/category/lily---creative',
+                to: '/category/lily---creative',
               },
               {
                 label: 'Orchid (Vanilla)',
-                to: 'docs/category/orchid---vanilla',
+                to: '/category/orchid---vanilla',
               },
             ],
           },
