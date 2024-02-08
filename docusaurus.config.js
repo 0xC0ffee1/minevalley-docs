@@ -45,14 +45,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/0xC0ffee1/minevalley-docs/tree/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/0xC0ffee1/minevalley-docs/tree/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,7 +73,11 @@ const config = {
           src: 'img/Minevalley200.webp',
         },
         items: [
-
+          {
+            href: 'https://github.com/0xC0ffee1/minevalley-docs/',
+            label: 'Contribute',
+            position: 'right',
+          },
           {
             href: 'https://minevalley.org',
             label: 'Website',
