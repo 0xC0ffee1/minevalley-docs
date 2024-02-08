@@ -51,10 +51,10 @@
 
 **For Bedrock users**
 
-- /pshop setbuy <price> <shop name> - To set a buy price
+- /pshop setbuy (price)  (shop name) - To set a buy price
     
 
-- /pshop setsell <price> <shop name> - To set a sell price
+- /pshop setsell (price) (shop name) - To set a sell price
     
 
 Please note, that IF your shop gets deleted by force by the server admins, do /lostitems to retrieve your items from your shop. Everything that has not been sold will be there!

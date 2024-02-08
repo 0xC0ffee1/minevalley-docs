@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/phlox/Claiming.md",
+                "file": "docs/phlox/Player Shops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/phlox/Claiming.md",
+                "file": "docs/phlox/Player Shops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/phlox/Claiming.md",
+                "file": "docs/phlox/Player Shops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/phlox/Claiming.md"
+                "file": "docs/phlox/Player Shops.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "127c3f3306dd4fb2",
   "lastOpenFiles": [
+    "docs/phlox/Claiming.md",
+    "docs/phlox/Player Shops.md",
+    "docs/phlox/Rules.md",
+    "docs/phlox/_category_.json",
     "docs/orchid/congratulations.md",
     "docs/orchid/_category_.json",
     "docs/intro.md",
@@ -158,10 +162,6 @@
     "tutorials/tutorial-basics/create-a-page.md",
     "tutorials",
     "tutorials/tutorial-basics/create-a-document.md",
-    "docs/phlox/Rules.md",
-    "docs/phlox/Player Shops.md",
-    "docs/phlox/Claiming.md",
-    "docs/phlox/_category_.json",
     "docs/lily/_category_.json",
     "docs/lily/How to join your plot.md",
     "package.json",
