@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/phlox/Gameplay.md",
+                "file": "docs/lily/Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/phlox/Gameplay.md",
+                "file": "docs/lily/Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/phlox/Gameplay.md",
+                "file": "docs/lily/Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/phlox/Gameplay.md"
+                "file": "docs/lily/Rules.md"
               }
             }
           }
@@ -174,13 +174,13 @@
   },
   "active": "8bff26bf48eeee4f",
   "lastOpenFiles": [
-    "docs/orchid/Gameplay.md",
-    "docs/phlox/Gameplay.md",
-    "docs/lily/Rules.md",
     "docs/orchid/Rules.md",
-    "docs/lily/How to join your plot.md",
     "docs/phlox/Rules.md",
+    "docs/phlox/Gameplay.md",
     "docs/phlox/Player Shops.md",
+    "docs/lily/Rules.md",
+    "docs/lily/How to join your plot.md",
+    "docs/orchid/Gameplay.md",
     "docs/orchid/_category_.json",
     "docs/intro.md",
     "docs/phlox/Claiming.md",

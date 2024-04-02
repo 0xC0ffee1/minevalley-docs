@@ -5,7 +5,7 @@ sidebar_position: 6
 #### [1.] Building rules.
 - Building inappropriate builds is prohibited.
 - Huge redstone powered farms need to have an ON / OFF switch.
-- No lag (or TPS) drop causing redstone builds or farms.
+- No lag (or TPS) drop causing builds or farms.
 
 #### [2.] Hacked clients and mods.
 - Prohibited modifications:
