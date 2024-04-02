@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8bff26bf48eeee4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/lily/Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/orchid/Gameplay.md",
+                "file": "docs/lily/Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/orchid/Gameplay.md",
+                "file": "docs/lily/Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/orchid/Gameplay.md"
+                "file": "docs/lily/Rules.md"
               }
             }
           }
@@ -160,15 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db138af7f93d3320",
+  "active": "8bff26bf48eeee4f",
   "lastOpenFiles": [
     "docs/orchid/Rules.md",
+    "docs/lily/Rules.md",
     "docs/orchid/Gameplay.md",
-    "docs/phlox/Rules.md",
     "docs/lily/How to join your plot.md",
+    "docs/phlox/Rules.md",
+    "docs/phlox/Player Shops.md",
     "docs/orchid/_category_.json",
     "docs/intro.md",
-    "docs/phlox/Player Shops.md",
     "docs/phlox/Claiming.md",
     "docs/phlox/_category_.json",
     "tutorials/tutorial-basics/_category_.json",

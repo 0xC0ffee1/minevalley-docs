@@ -1,10 +1,9 @@
 ---
 sidebar_position: 6
 ---
-## Orchid Vanilla SMP Rules
+## Lily Creative Rules
 #### [1.] Building rules.
-- Griefing from others, breaking or placing down blocks within someone else's build without permissions, theft, player trapping or building inappropriate builds are prohibited.
-- Refrain from building too close to others unless both parties have agreed.
+- Building inappropriate builds is prohibited.
 - Huge redstone powered farms need to have an ON / OFF switch.
 - No lag (or TPS) drop causing redstone builds or farms.
 

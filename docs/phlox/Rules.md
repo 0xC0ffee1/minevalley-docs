@@ -8,7 +8,7 @@ sidebar_position: 1
 - Huge redstone powered farms need to have an ON / OFF switch.
 - No lag (or TPS) drop causing redstone builds or farms.
 
-[2.] Additional information.
+#### [2.] Additional information.
 - Alternative accounts
 	- Using an alt account to AFK at farms is allowed as long as it's not consistent. Limit to AFK at farms per day is roughly 6 hours.
 	- Bypassing any punishment through an alternative account will result in a permanent IP-ban.
@@ -16,7 +16,7 @@ sidebar_position: 1
 
 #### [2.] Hacked clients and mods.
 - Prohibited modifications:
-	- Any "hacked" clients / mods that modify server-bound packets in any way. (These include kill-aura, auto clicker and anything that alters the vanilla Miencraft user experience for other players.)
+	- Any "hacked" clients / mods that modify server-bound packets in any way. (These include kill-aura, auto clicker and anything that alters the vanilla Minecraft user experience for other players.)
 - Allowed modifications:
 	- All client-side modifications that do not modify server-bound packets. (Such as optifine, full brightness, Mini maps etc.)
 
