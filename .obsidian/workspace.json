@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lily/Rules.md",
+                "file": "docs/phlox/Gameplay.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lily/Rules.md",
+                "file": "docs/phlox/Gameplay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lily/Rules.md",
+                "file": "docs/phlox/Gameplay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lily/Rules.md"
+                "file": "docs/phlox/Gameplay.md"
               }
             }
           }
@@ -174,9 +174,10 @@
   },
   "active": "8bff26bf48eeee4f",
   "lastOpenFiles": [
-    "docs/orchid/Rules.md",
-    "docs/lily/Rules.md",
     "docs/orchid/Gameplay.md",
+    "docs/phlox/Gameplay.md",
+    "docs/lily/Rules.md",
+    "docs/orchid/Rules.md",
     "docs/lily/How to join your plot.md",
     "docs/phlox/Rules.md",
     "docs/phlox/Player Shops.md",
