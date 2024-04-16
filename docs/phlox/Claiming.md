@@ -21,7 +21,6 @@
 
 ![](https://i.gyazo.com/97b2558ca54584b772ec8afc7ec217ea.gif)
 
-Write a caption
 
 **Trusting people to your claims**
 

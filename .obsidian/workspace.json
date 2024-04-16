@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/phlox/Resource Worlds.md",
+                "file": "docs/phlox/In-Game money.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/phlox/Resource Worlds.md",
+                "file": "docs/phlox/In-Game money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/phlox/Resource Worlds.md",
+                "file": "docs/phlox/In-Game money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/phlox/Resource Worlds.md"
+                "file": "docs/phlox/In-Game money.md"
               }
             }
           }
@@ -175,9 +175,10 @@
   "active": "8bff26bf48eeee4f",
   "lastOpenFiles": [
     "docs/phlox/Gameplay.md",
-    "docs/phlox/Resource Worlds.md",
-    "docs/phlox/Player Shops.md",
     "docs/phlox/Claiming.md",
+    "docs/phlox/In-Game money.md",
+    "docs/phlox/Player Shops.md",
+    "docs/phlox/Resource Worlds.md",
     "docs/phlox/Claiming land.md",
     "docs/lily/Rules.md",
     "docs/orchid/Rules.md",
