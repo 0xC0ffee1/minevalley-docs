@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/phlox/In-Game money.md",
+                "file": "docs/orchid/Gameplay.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/phlox/In-Game money.md",
+                "file": "docs/orchid/Gameplay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/phlox/In-Game money.md",
+                "file": "docs/orchid/Gameplay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/phlox/In-Game money.md"
+                "file": "docs/orchid/Gameplay.md"
               }
             }
           }
@@ -174,6 +174,9 @@
   },
   "active": "8bff26bf48eeee4f",
   "lastOpenFiles": [
+    "docs/orchid/_category_.json",
+    "docs/orchid/Gameplay.md",
+    "docs/orchid/Rules.md",
     "docs/phlox/Gameplay.md",
     "docs/phlox/Claiming.md",
     "docs/phlox/In-Game money.md",
@@ -181,11 +184,8 @@
     "docs/phlox/Resource Worlds.md",
     "docs/phlox/Claiming land.md",
     "docs/lily/Rules.md",
-    "docs/orchid/Rules.md",
     "docs/phlox/Rules.md",
     "docs/lily/How to join your plot.md",
-    "docs/orchid/Gameplay.md",
-    "docs/orchid/_category_.json",
     "docs/intro.md",
     "docs/phlox/_category_.json",
     "tutorials/tutorial-basics/_category_.json",

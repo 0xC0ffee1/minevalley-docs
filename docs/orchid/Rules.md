@@ -15,7 +15,7 @@ sidebar_position: 6
 	- All client-side modifications that do not modify server-bound packets. (Such as optifine, full brightness, Mini maps etc.)
 
 #### [3.] Reporting bugs and exploits.
-- Kindly report bugs, exploits, rule breakers or anything between to Staff as soon as possible when you encounter these.
+- Kindly report exploits, rule breakers or anything between to Staff as soon as possible when you encounter these.
 - Abusing bugs and exploits will result in a permanent ban.
 
 
@@ -27,7 +27,7 @@ sidebar_position: 6
 
 #### [2.] Behave appropriately.
 - Slight swearing is allowed as long as it's not directed toward anyone.
-- Please use English in chats that are public. You may create a guild/co-op with people who speak your other native language.
+- Please use English in chats that are public.
 - Spamming messages, commands or characters should be avoided, and any drama should be kept away at all times.
 - Participating and/or starting drama, trolling, baiting/trapping is prohibited.
 - Avoid controversial topics such as politics.
